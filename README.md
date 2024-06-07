@@ -26,6 +26,10 @@ Within the app's exploration section, users can delve into informative visualiza
 - **Pie Chart🔵**: Illustrating data distribution across different countries.
 - **Bar Plot📊**: Providing insights into salary distribution across various countries.
 - **Line Plot📉**: Depicting salary trends based on years of experience.
+- ## Video Showcase
+
+Check out our video showcasing the results of our Dynamic Salary Prediction Tool on my linkedin post: https://www.linkedin.com/posts/aya-tbini-20778619a_exciting-news-ive-just-completed-activity-7181418880093855744-9tcl?utm_source=share&utm_medium=member_desktop.
+
 
 ## Feedback
 

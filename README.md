@@ -1,4 +1,4 @@
-# SalaryPrediction
+# Machine learning web app of SalaryPrediction
 # Dynamic Salary Prediction Tool
 
 Welcome to the Dynamic Salary Prediction Tool project! This application utilizes machine learning techniques to predict salaries based on various factors such as country, education level, and years of experience.
